@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 30 May 2023 21:47:56 at https://themesdesign.in/tocly/layouts/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themesdesign.in/tocly/layouts/index.html -O1 "D:\websites\admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:49:15	Error: 	"Not Found" (404) at link https://themesdesign.in/tocly/layouts/assets/css/app-dark.min.css (from https://themesdesign.in/tocly/layouts/index.html)
+21:49:17	Warning: 	File not parsed, looks like binary: https://themesdesign.in/tocly/layouts/assets/fonts/materialdesignicons-webfont.woff2?v=5.9.55
+21:49:17	Warning: 	File not parsed, looks like binary: https://themesdesign.in/tocly/layouts/assets/fonts/fa-brands-400.woff2
+21:49:17	Warning: 	File not parsed, looks like binary: https://themesdesign.in/tocly/layouts/assets/fonts/fa-regular-400.woff2
+21:49:17	Warning: 	File not parsed, looks like binary: https://themesdesign.in/tocly/layouts/assets/fonts/fa-solid-900.woff2
+21:49:18	Warning: 	File not parsed, looks like binary: https://themesdesign.in/tocly/layouts/assets/fonts/remixicon.woff2?t=1590207869815
+21:49:20	Error: 	"Not Found" (404) at link https://themesdesign.in/tocly/layouts/pages-faqs.html (from https://themesdesign.in/tocly/layouts/layouts-horizontal.html)
+21:49:20	Error: 	"Not Found" (404) at link https://themesdesign.in/tocly/layouts/assets/libs/datatables.net-autoFill-bs4/css/autoFill.bootstrap4.min.css (from https://themesdesign.in/tocly/layouts/tables-editable.html)
+21:49:20	Error: 	"Not Found" (404) at link https://themesdesign.in/tocly/layouts/assets/images/authentication-bg.jpg (from https://themesdesign.in/tocly/layouts/assets/css/app-rtl.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 24 seconds : 301 links scanned, 296 files written (29952695 bytes overall) [19425382 bytes received at 231254 bytes/sec], 13805590 bytes transferred using HTTP compression in 215 files, ratio 22%, 21.5 requests per connection
+(4 errors, 5 warnings, 0 messages)
